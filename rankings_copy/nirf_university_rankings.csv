@@ -1,0 +1,101 @@
+Institute ID,Name,City,State,Score,Rank,Stream
+IR-O-U-0220,"Indian Institute of Science, Bengaluru",Bengaluru,Karnataka,83.29,1,University
+IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,69.8,2,University
+IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,68.11,3,University
+IR-O-U-0234,"Manipal Academy of Higher Education, Manipal",Manipal,Karnataka,67.18,4,University
+IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,66.05,5,University
+IR-O-U-0120,University of Delhi,Delhi,Delhi,65.9,6,University
+IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,65.73,7,University
+IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,65.57,8,University
+IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,65.39,9,University
+IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,64.79,10,University
+IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,64.62,11,University
+IR-O-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,64.56,12,University
+IR-O-U-0439,Anna University,Chennai,Tamil Nadu,63.85,13,University
+IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,62.61,14,University
+IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,62.53,15,University
+IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,62.31,16,University
+IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,62.18,17,University
+IR-O-U-0570,Calcutta University,Kolkata,West Bengal,61.1,18,University
+IR-O-U-0391,"Birla Institute of Technology and Science, Pilani",Pilani,Rajasthan,60.03,19,University
+IR-O-U-0747,Chandigarh University,Mohali,Punjab,59.96,20,University
+IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,58.48,21,University
+IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,57.98,22,University
+IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,57.96,23,University
+IR-O-U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,57.74,24,University
+IR-O-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,57.67,25,University
+IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,57.26,26,University
+IR-O-U-0379,Lovely Professional University,Phagwara,Punjab,56.92,27,University
+IR-O-U-0476,Shanmugha Arts Science Technology and Research Academy,Thanjavur,Tamil Nadu,56.81,28,University
+IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,56.72,29,University
+IR-O-U-0458,Kalasalingam Academy of Research and Education,Srivilliputhur,Tamil Nadu,56.71,30,University
+IR-O-U-0329,Symbiosis International,Pune,Maharashtra,56.41,31,University
+IR-O-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,56.14,32,University
+IR-O-U-0498,Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,56.03,33,University
+IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,55.95,34,University
+IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,55.67,35,University
+IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,55.6,36,University
+IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,55.18,37,University
+IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,55.11,38,University
+IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,55.03,39,University
+IR-O-U-0052,Gauhati University,Guwahati,Assam,54.86,40,University
+IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,54.86,40,University
+IR-O-U-0295,Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,54.71,42,University
+IR-O-U-0027,Osmania University,Hyderabad,Telangana,54.69,43,University
+IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,54.59,44,University
+IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,54.43,45,University
+IR-O-U-0564,UPES,Dehradun,Uttarakhand,54.02,46,University
+IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,53.84,47,University
+IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,53.31,48,University
+IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,52.43,49,University
+IR-O-U-0195,University of Jammu,Jammu,Jammu and Kashmir,52.33,50,University
+IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,52.16,51,University
+IR-O-U-0555,Graphic Era University,Dehradun,Uttarakhand,52.01,52,University
+IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,51.1,53,University
+IR-O-U-0235,Mysore University,Mysuru,Karnataka,51.04,54,University
+IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,50.86,55,University
+IR-O-U-0470,Periyar University,Salem,Tamil Nadu,50.36,56,University
+IR-O-U-0381,Punjab Agricultural University,Ludhiana,Punjab,50.32,57,University
+IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,50.2,58,University
+IR-O-U-0003,Acharya Nagarjuna University,Guntur,Andhra Pradesh,50.06,59,University
+IR-O-U-0217,Christ University,Bengaluru,Karnataka,49.87,60,University
+IR-O-U-0318,Mumbai University,Mumbai,Maharashtra,49.86,61,University
+IR-O-U-0642,Shiv Nadar University,Gautam Buddha Nagar,Uttar Pradesh,49.8,62,University
+IR-O-U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,49.72,63,University
+IR-O-U-0749,"Manipal University, Jaipur",Jaipur,Rajasthan,49.5,64,University
+IR-O-U-0223,"Jain University, Bangalore",Bengaluru,Karnataka,49.47,65,University
+IR-O-U-0239,NITTE,Mangaluru,Karnataka,49.45,66,University
+IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,49.38,67,University
+IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College,Puducherry,Pondicherry,49.14,68,University
+IR-O-U-0056,Tezpur University,Tezpur,Assam,49.01,69,University
+IR-O-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,48.82,70,University
+IR-O-U-0168,Maharishi Markandeshwar (Deemed to be University),Ambala,Haryana,48.67,71,University
+IR-O-U-0043,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,48.45,72,University
+IR-O-U-0446,Bharath Institute of Higher Education and Research,Chennai,Tamil Nadu,48.36,73,University
+IR-O-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,48.32,74,University
+IR-O-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,48.1,75,University
+IR-O-U-0136,Gujarat University,Ahmedabad,Gujarat,48.04,76,University
+IR-O-U-0345,Mizoram University,Aizawl,Mizoram,48.03,77,University
+IR-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,47.94,78,University
+IR-O-U-0451,Chettinad Academy of Research and Education,"Kelambakkam, Chengalpattu District",Tamil Nadu,47.8,79,University
+IR-O-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,47.66,80,University
+IR-O-U-0215,Bangalore University,Bengaluru,Karnataka,47.45,81,University
+IR-O-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,47.31,82,University
+IR-O-U-0372,Central University of Punjab,Bathinda,Punjab,47.11,83,University
+IR-O-U-0485,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,47.03,84,University
+IR-O-U-0384,Sant Longowal Institute of Engineering and Technology,Longowal,Punjab,46.9,85,University
+IR-O-U-0541,Sharda University,Greater Noida,Uttar Pradesh,46.88,86,University
+IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,46.65,87,University
+IR-O-U-0554,G.B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,46.64,88,University
+IR-O-U-0251,Calicut University,Malappuram,Kerala,46.63,89,University
+IR-O-U-0248,University of Agricultural Sciences,Bengaluru,Karnataka,46.47,90,University
+IR-O-U-0373,Chitkara University,Rajpura,Punjab,46.47,90,University
+IR-O-U-0169,Manav Rachna International Institute of Research and Studies,Faridabad,Haryana,46.46,92,University
+IR-O-U-0464,"Manonmaniam Sundaranar University, Tirunelveli",Tirunelveli,Tamil Nadu,46.34,93,University
+IR-O-U-0739,Madan Mohan Malaviya University of Technology,Gorakhpur,Uttar Pradesh,46.33,94,University
+IR-O-U-0250,Yenepoya University,Mangaluru,Karnataka,46.31,95,University
+IR-O-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,46.22,96,University
+IR-O-U-0524,University of Lucknow,Lucknow,Uttar Pradesh,45.89,97,University
+IR-O-U-0444,Avinashilingam Institute for Home Science and Higher Education for Women,Coimbatore,Tamil Nadu,45.78,98,University
+IR-O-U-0449,Central University of Tamil Nadu,Tiruvarur,Tamil Nadu,45.73,99,University
+IR-O-C-6379,Netaji Subhas University of Technology (NSUT),Delhi,Delhi,45.51,100,University
